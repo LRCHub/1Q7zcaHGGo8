@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "蒼の音階",
+  "base_artist": "涼海ネモ",
+  "createdAt": "2026-03-26T01:40:07.065683Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "蒼の音階",
+      "artist": "涼海ネモ",
+      "has_synced": false,
+      "path": "select/pl_01_蒼の音階_涼海ネモ.txt"
+    }
+  ]
+}
